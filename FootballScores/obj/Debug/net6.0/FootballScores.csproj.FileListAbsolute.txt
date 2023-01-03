@@ -1,0 +1,15 @@
+C:\Users\tavin\source\repos\FootballScores\FootballScores\bin\Debug\net6.0\FootballScores.exe
+C:\Users\tavin\source\repos\FootballScores\FootballScores\bin\Debug\net6.0\FootballScores.deps.json
+C:\Users\tavin\source\repos\FootballScores\FootballScores\bin\Debug\net6.0\FootballScores.runtimeconfig.json
+C:\Users\tavin\source\repos\FootballScores\FootballScores\bin\Debug\net6.0\FootballScores.dll
+C:\Users\tavin\source\repos\FootballScores\FootballScores\bin\Debug\net6.0\FootballScores.pdb
+C:\Users\tavin\source\repos\FootballScores\FootballScores\obj\Debug\net6.0\FootballScores.csproj.AssemblyReference.cache
+C:\Users\tavin\source\repos\FootballScores\FootballScores\obj\Debug\net6.0\FootballScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tavin\source\repos\FootballScores\FootballScores\obj\Debug\net6.0\FootballScores.AssemblyInfoInputs.cache
+C:\Users\tavin\source\repos\FootballScores\FootballScores\obj\Debug\net6.0\FootballScores.AssemblyInfo.cs
+C:\Users\tavin\source\repos\FootballScores\FootballScores\obj\Debug\net6.0\FootballScores.csproj.CoreCompileInputs.cache
+C:\Users\tavin\source\repos\FootballScores\FootballScores\obj\Debug\net6.0\FootballScores.dll
+C:\Users\tavin\source\repos\FootballScores\FootballScores\obj\Debug\net6.0\refint\FootballScores.dll
+C:\Users\tavin\source\repos\FootballScores\FootballScores\obj\Debug\net6.0\FootballScores.pdb
+C:\Users\tavin\source\repos\FootballScores\FootballScores\obj\Debug\net6.0\FootballScores.genruntimeconfig.cache
+C:\Users\tavin\source\repos\FootballScores\FootballScores\obj\Debug\net6.0\ref\FootballScores.dll
